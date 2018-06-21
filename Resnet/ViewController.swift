@@ -47,7 +47,7 @@ class ViewController: UIViewController {
       if success {
         // Add the video preview into the UI.
         if let previewLayer = self.videoCapture.previewLayer {
-            previewLayer.frame = CGRect(x:0,y:0, width:267 , height:200)
+            previewLayer.frame = CGRect(x:0,y:0, width:224 , height:224)
           self.videoPreview.layer.addSublayer(previewLayer)
           self.resizePreviewLayer()
         }
