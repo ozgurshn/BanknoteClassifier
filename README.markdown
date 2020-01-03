@@ -1,7 +1,7 @@
 # Resnet50 with CoreML
 
 
-[Yapay Zeka Destekli Görüntü Tanıyan iOS Uygulama Nasıl Geliştirilir?](https://medium.com/deep-learning-turkiye/g%C3%B6r%C3%BCnt%C3%BC-tan%C4%B1yan-mobil-uygulama-nas%C4%B1l-geli%C5%9Ftirilir-33760f7d827)
+[Yapay Zeka Destekli Görüntü Tanıyan iOS Uygulama Nasıl Geliştirilir?](https://medium.com/@ozgurs/g%C3%B6r%C3%BCnt%C3%BC-tan%C4%B1yan-mobil-uygulama-nas%C4%B1l-geli%C5%9Ftirilir-33760f7d827?)
 
 [How to fine-tune ResNet in Keras and use it in an iOS App via Core ML](https://heartbeat.fritz.ai/how-to-fine-tune-resnet-in-keras-and-use-it-in-an-ios-app-via-core-ml-ee7fd84c1b26)
 
